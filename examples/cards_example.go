@@ -6,6 +6,7 @@ import (
 	"github.com/anthonyrouseau/games/cards"
 )
 
+//CardsExample runs a function with basic usage of the cards package.
 func CardsExample() {
 	deck := cards.NewStandardDeck(false)
 	deck.Shuffle()
