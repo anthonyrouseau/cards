@@ -1,12 +1,12 @@
-package main
+package examples
 
 import (
 	"log"
 
-	"github.com/anthonyrouseau/cards/cards"
+	"github.com/anthonyrouseau/games/cards"
 )
 
-func main() {
+func CardsExample() {
 	deck := cards.NewStandardDeck(false)
 	deck.Shuffle()
 	hands, err := deck.Deal(3, 5)
