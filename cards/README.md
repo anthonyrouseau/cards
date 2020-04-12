@@ -6,7 +6,7 @@ This package provides structs and methods useful for building card games.
 
 To install this package use the command:
 
-...`go get github.com/anthonyrouseau/games/cards`
+    `go get github.com/anthonyrouseau/games/cards`
 
 ## Example 
 
