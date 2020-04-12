@@ -8,11 +8,11 @@ The module is broken up into packages that group objects and functionality for d
 
 To install the entire game module use the command:
 
-    `go get github.com/anthonyrouseau/games`
+  `go get github.com/anthonyrouseau/games`
 
 Packages can be installed using the following format:
 
-    `go get github.com/anthonyrouseau/games/cards`
+  `go get github.com/anthonyrouseau/games/cards`
 
 ## Examples
 
